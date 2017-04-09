@@ -1,6 +1,6 @@
 # FizzBadd
 
-**TODO: Add description**
+A shitty Fizz Buzz implementation generator.
 
 ## Installation
 
