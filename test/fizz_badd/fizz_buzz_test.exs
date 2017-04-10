@@ -1,5 +1,5 @@
-defmodule FizzBaddTest.FizzBuzzTest do
-  use ExUnit.Case
+defmodule FizzBadd.FizzBuzzTest do
+  use ExUnit.Case, aync: true
 
   alias FizzBadd.FizzBuzz, as: FizzBuzz
 
